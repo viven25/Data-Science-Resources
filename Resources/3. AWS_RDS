@@ -1,1 +1,7 @@
-1. 
+Context: https://medium.com/swlh/aurora-database-explained-ece9db93f6b8
+
+Setup:  1. Create RDS DB instance
+        2. Give access to the DB through VPN
+        3. Use DBeaver to access the DB through VPN / Alternatively use a jump server that has access to the DB
+        
+Schema: 
